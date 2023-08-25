@@ -1,0 +1,8 @@
+{
+  "name": "Help",
+  "sequence": "12121",
+  "description": "Executes a help command.",
+  "message": "alakazama",
+  "effect": "",
+  "command": "help"
+}

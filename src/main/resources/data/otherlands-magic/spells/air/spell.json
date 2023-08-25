@@ -1,0 +1,8 @@
+{
+  "name": "air",
+  "sequence": "56565",
+  "description": "middle finguh waltuh",
+  "message": "middle finguh",
+  "effect": "",
+  "command": "tp @s ~ ~1000 ~"
+}

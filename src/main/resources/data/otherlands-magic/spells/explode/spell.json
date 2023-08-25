@@ -1,0 +1,8 @@
+{
+  "name": "Explode",
+  "sequence": "82654",
+  "description": "Causes the user to erupt in a grand explosion.",
+  "message": "Pop goes the mortal.",
+  "effect": "",
+  "command": "summon creeper ~ ~ ~ {Fuse:0,ExplosionRadius:5,ignited:1}"
+}
